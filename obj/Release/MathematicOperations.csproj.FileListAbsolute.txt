@@ -1,0 +1,23 @@
+J:\Work\Качка\InRealTime\MathematicOperations\obj\Release\ResolveAssemblyReference.cache
+J:\Work\Качка\InRealTime\MathematicOperations\bin\Release\MathematicOperations.dll
+J:\Work\Качка\InRealTime\MathematicOperations\bin\Release\MathematicOperations.pdb
+J:\Work\Качка\InRealTime\MathematicOperations\bin\Release\WorkWithFunction.dll
+J:\Work\Качка\InRealTime\MathematicOperations\bin\Release\WorkWithFunction.pdb
+J:\Work\Качка\InRealTime\MathematicOperations\obj\Release\MathematicOperations.dll
+J:\Work\Качка\InRealTime\MathematicOperations\obj\Release\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\obj\Release\ResolveAssemblyReference.cache
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\obj\Release\MathematicOperations.dll
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\obj\Release\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\bin\Release\MathematicOperations.dll
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\bin\Release\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\bin\Release\WorkWithFunction.dll
+D:\DATA_AND_PROGRAMS\Bases tasks\Триада\По качке и волнению\Расчёт на C#\Реальное время\InRealTime\MathematicOperations\bin\Release\WorkWithFunction.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\bin\Release\MathematicOperations.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\bin\Release\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\bin\Release\WorkWithFunction.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\bin\Release\WorkWithFunction.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\obj\Release\ResolveAssemblyReference.cache
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\obj\Release\MathematicOperations.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\obj\Release\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\bin\Release\WorkWithFunction.xml
+d:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\bin\Release\MathematicOperations.XML

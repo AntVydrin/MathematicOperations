@@ -1,0 +1,12 @@
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\obj\Debug\ResolveAssemblyReference.cache
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\obj\Debug\TestLU.Form1.resources
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\obj\Debug\TestLU.Properties.Resources.resources
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\obj\Debug\TestLU.csproj.GenerateResource.Cache
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\bin\Debug\TestLU.exe
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\bin\Debug\TestLU.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\bin\Debug\MathematicOperations.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\bin\Debug\WorkWithFunction.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\bin\Debug\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\bin\Debug\WorkWithFunction.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\obj\Debug\TestLU.exe
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\тест\TestLU\obj\Debug\TestLU.pdb

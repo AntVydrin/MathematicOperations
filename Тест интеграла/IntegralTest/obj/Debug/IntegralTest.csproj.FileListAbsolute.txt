@@ -1,0 +1,14 @@
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\IntegralTest.exe
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\IntegralTest.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\MathematicOperations.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\WorkWithFunction.dll
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\MathematicOperations.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\MathematicOperations.xml
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\WorkWithFunction.pdb
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\bin\Debug\WorkWithFunction.xml
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\obj\Debug\ResolveAssemblyReference.cache
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\obj\Debug\IntegralTest.Form1.resources
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\obj\Debug\IntegralTest.Properties.Resources.resources
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\obj\Debug\IntegralTest.csproj.GenerateResource.Cache
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\obj\Debug\IntegralTest.exe
+D:\DATA_AND_PROGRAMS\Вспомогательные dll-ки\MathematicOperations\Тест интеграла\IntegralTest\obj\Debug\IntegralTest.pdb

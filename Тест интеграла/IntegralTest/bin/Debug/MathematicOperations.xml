@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathematicOperations</name>
+    </assembly>
+    <members>
+        <member name="M:Mathematic.MathematicOperations.IntegraL(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double,System.Double)">
+            <summary>
+            Взять интеграл методом симпсона
+            </summary>
+            <param name="values"></param>
+            <param name="x1"></param>
+            <param name="x2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.MathematicOperations.IntegraL(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double,System.Double,System.Double)">
+            <summary>
+            Взять интеграл методом симпсона
+            </summary>
+            <param name="values"></param>
+            <param name="x1"></param>
+            <param name="x2"></param>
+            <param name="step"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.MathematicOperations.IntegraL_trap(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double,System.Double)">
+            <summary>
+            Посчитать интеграл методом трапеций
+            </summary>
+            <param name="values"></param>
+            <param name="x1"></param>
+            <param name="x2"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Mathematic.MathematicOperations.simpleNumber">
+            <summary>
+            Простые числа
+            </summary>
+        </member>
+        <member name="T:Mathematic.Matrix">
+            <summary>
+            Класс работы с матрицей
+            </summary>
+        </member>
+        <member name="F:Mathematic.Matrix.n">
+            <summary>
+            Размер матрицы
+            </summary>
+        </member>
+        <member name="M:Mathematic.Matrix.#ctor(System.Int32)">
+            <summary>
+            Создать матрицу, размером N
+            </summary>
+            <param name="matrixN"></param>
+        </member>
+        <member name="M:Mathematic.Matrix.Determinant">
+            <summary>
+            Поиск определителя матрицы
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Matrix.Find_determinant(System.Double[][],System.Int32)">
+            <summary>
+            Поиск определителя матрицы
+            </summary>
+            <param name="matr"></param>
+            <param name="n"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Matrix.TransponMatrix">
+            <summary>
+            Транспонирование матрицы
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Matrix.TransponMatrix(System.Double[][])">
+            <summary>
+            Транспонирование матрицы, поданной на вход
+            </summary>
+            <param name="matr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Matrix.InverseMatrix">
+            <summary>
+            Обратная матрица
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Matrix.AlgAdditionaL(System.Int32,System.Int32)">
+            <summary>
+            Алгеброическое дополнение элемента a[i,j]
+            </summary>
+            <param name="i"></param>
+            <param name="j"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Mathematic.Matrix.Inverse">
+            <summary>
+            Обратная матрица
+            </summary>
+        </member>
+        <member name="T:Mathematic.LinearEquation">
+            <summary>
+            Решение системы линейных уравнений
+            </summary>
+        </member>
+        <member name="T:Mathematic.Fourier">
+            <summary>
+            Разложение реализации в ряд Фурье. Поиск амплитуд по частотам
+            </summary>
+        </member>
+        <member name="F:Mathematic.Fourier.an">
+            <summary>
+            Амплитуды при косинусах
+            </summary>
+        </member>
+        <member name="F:Mathematic.Fourier.bn">
+            <summary>
+            Амплитуды при синусах
+            </summary>
+        </member>
+        <member name="M:Mathematic.Fourier.Fseries(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double,System.Double)">
+            <summary>
+            Разложить входные данные в ряд, учитывая частоты от omMin до omMax
+            </summary>
+            <param name="points"></param>
+            <param name="omMin"></param>
+            <param name="omMax"></param>
+        </member>
+        <member name="M:Mathematic.Fourier.Transform(System.Collections.Generic.List{WorkWithFunct.ValuePoint})">
+            <summary>
+            Прямое преобразование Фурье
+            </summary>
+            <param name="points"></param>     
+        </member>
+        <member name="M:Mathematic.Fourier.InverseTransform(System.Collections.Generic.List{WorkWithFunct.ValuePoint})">
+            <summary>
+            
+            </summary>
+            <param name="points"></param>
+        </member>
+    </members>
+</doc>

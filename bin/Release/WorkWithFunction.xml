@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WorkWithFunction</name>
+    </assembly>
+    <members>
+        <member name="T:WorkWithFunct.ValuePoint">
+            <summary>
+            Точка x,y
+            </summary>
+        </member>
+        <member name="M:WorkWithFunct.ValuePoint.#ctor(System.Double,System.Double)">
+            <summary>
+            Точка x,y
+            </summary>
+            <param name="x">Аргумент</param>
+            <param name="y">Значение</param>
+        </member>
+        <member name="T:WorkWithFunct.WorkWithFunction">
+            <summary>
+            Работа с набором данных x,y
+            </summary>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.CreateFunct(System.Collections.Generic.List{System.Double},System.Collections.Generic.List{System.Double})">
+            <summary>
+            Создать массив точек из определённого набора x,y, отсортированных по x
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.CreateFunct(System.Collections.Generic.List{System.Double},System.Collections.Generic.List{System.Double},System.Double)">
+            <summary>
+            Создать массив точек с определённым шагом, отсортированных по x
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="step"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.GivePoint(System.Double,System.Collections.Generic.List{WorkWithFunct.ValuePoint})">
+            <summary>
+            Взять значение из массива по аргументу
+            </summary>
+            <param name="x"></param>
+            <param name="?"></param>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.GivePointX(System.Double,System.Collections.Generic.List{WorkWithFunct.ValuePoint})">
+            <summary>
+            Получить аргумент по известной величине значения
+            </summary>
+            <param name="y"></param>
+            <param name="points"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.GiveNumberFromX(System.Double,System.Collections.Generic.List{WorkWithFunct.ValuePoint})">
+            <summary>
+            Получить ближайший номер записи по аргументу
+            </summary>
+            <param name="x"></param>
+            <param name="points"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.FindMaxAndMinY(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double@,System.Double@)">
+            <summary>
+            Поиск максимального и минимального значения элемента
+            </summary>
+            <param name="points"></param>
+            <param name="max"></param>
+            <param name="min"></param>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.FindMaxY(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double@)">
+            <summary>
+            Поиск максимального значения элемента
+            </summary>
+            <param name="points"></param>
+            <param name="maxY"></param>
+        </member>
+        <member name="M:WorkWithFunct.WorkWithFunction.FindMaxAndMinX(System.Collections.Generic.List{WorkWithFunct.ValuePoint},System.Double@,System.Double@)">
+            <summary>
+            Найти максимальные и минимальные аргументы
+            </summary>
+            <param name="points"></param>
+            <param name="maxX"></param>
+            <param name="minX"></param>
+        </member>
+    </members>
+</doc>
